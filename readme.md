@@ -32,6 +32,8 @@ removed node_modules folder
 copy and paste the circles example then add `export default` 
 https://shopify.github.io/react-native-skia/docs/animations/reanimated/#hello-world
 
+setup expo dev client: https://docs.expo.dev/develop/development-builds/create-a-build/
+
 
 
 `yarn start`

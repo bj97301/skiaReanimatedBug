@@ -5,6 +5,7 @@
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
+    "buildSimulatorAll": "easEnv=development eas build --profile development-simulator --platform all",
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
