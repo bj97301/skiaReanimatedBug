@@ -34,6 +34,11 @@ https://shopify.github.io/react-native-skia/docs/animations/reanimated/#hello-wo
 
 setup expo dev client: https://docs.expo.dev/develop/development-builds/create-a-build/
 
+upload simulator builds:
+droid:
+https://expo.dev/accounts/bryan.joseph/projects/skiaReanimatedBug/builds/1aec22e0-3507-409e-93d8-8de00079824a
+
+ios:
 
 
 `yarn start`
