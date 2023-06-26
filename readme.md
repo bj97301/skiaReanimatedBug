@@ -28,17 +28,18 @@ removed node_modules folder
 
 <image src="./assets/reanimated 3.png">
 
+copy and paste the circles example then add `export default`
+<https://shopify.github.io/react-native-skia/docs/animations/reanimated/#hello-world>
 
-copy and paste the circles example then add `export default` 
-https://shopify.github.io/react-native-skia/docs/animations/reanimated/#hello-world
-
-setup expo dev client: https://docs.expo.dev/develop/development-builds/create-a-build/
+setup expo dev client: <https://docs.expo.dev/develop/development-builds/create-a-build/>
 
 upload simulator builds:
 droid:
-https://expo.dev/accounts/bryan.joseph/projects/skiaReanimatedBug/builds/1aec22e0-3507-409e-93d8-8de00079824a
+<https://expo.dev/accounts/bryan.joseph/projects/skiaReanimatedBug/builds/1aec22e0-3507-409e-93d8-8de00079824a>
 
 ios:
+/assets/skiaReanimatedBug.app
+drag into simulator
 
 
 `yarn start`
